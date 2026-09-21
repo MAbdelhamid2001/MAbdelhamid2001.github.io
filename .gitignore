@@ -1,0 +1,13 @@
+# Previous HTML5UP template and its image set - superseded, kept locally only.
+# The old site remains in this repo's git history on GitHub.
+_legacy/
+images/
+
+# Tooling
+.vercel/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local

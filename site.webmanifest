@@ -1,0 +1,13 @@
+{
+  "name": "Mohamed Abdelhamid - Full-Stack AI Engineer",
+  "short_name": "M. Abdelhamid",
+  "description": "Portfolio of Mohamed Mahmoud Abdelhamid - AI engineer working across computer vision, NLP, signal processing and Django backends.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#070b16",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/img/profile.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}

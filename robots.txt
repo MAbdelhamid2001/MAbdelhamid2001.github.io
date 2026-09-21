@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_legacy/
+
+Sitemap: https://mabdelhamid2001.github.io/sitemap.xml

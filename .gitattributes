@@ -1,0 +1,12 @@
+# Normalize to LF in the repo; check out native on each platform.
+* text=auto eol=lf
+
+# Binary assets - never touch these
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.webp binary
+*.pdf  binary
+*.ico  binary
+*.woff  binary
+*.woff2 binary
